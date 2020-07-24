@@ -1,5 +1,5 @@
 #<center>BingoIO_OI233's  ! TANKS !</center>#
-##<center>欢迎游玩这个四天多搭建出来的小游戏</center>##
+##<center>欢迎游玩这个一周左右搭建出来的小游戏</center>##
 
 **!TANKS!** 是基于 **Unity3d**(`Unity 2019.3.0b1 64-bit`) 与 **JetBrains Rider**(`JetBrains Rider 2019.2.2 x64`) 于 Windows 平台开发的一个十分简易的双人本地坦克对战游戏。
 
