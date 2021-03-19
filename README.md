@@ -5,7 +5,7 @@
 
 
 ### <center>! 游戏正常运行需以下环境配置 !</center> ###
-<center>**Ⅰ .net framwork4.0或以上**</center>
+**<center>Ⅰ .net framwork4.0或以上</center>**
 
 ---
 
