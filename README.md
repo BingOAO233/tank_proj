@@ -4,8 +4,6 @@
 **!TANKS!** 是基于 **Unity3d**(`Unity 2019.3.0b1 64-bit`) 与 **JetBrains Rider**(`JetBrains Rider 2019.2.2 x64`) 于 Windows 平台开发的一个十分简易的双人本地坦克对战游戏。
 
 <center style="font-weight:bold">! 游戏正常运行需以下环境配置 !</center>
-
-### <center>! 游戏正常运行需以下环境配置 !</center> ###
 <center style="font-weight:bold">Ⅰ .net framwork4.0或以上</center>
 
 ---
